@@ -1,0 +1,19 @@
+h1{
+    border: rgb(82, 79, 79) 3px solid ;
+    color: rgb(13,163,223);
+}
+h2{
+    color: rgba(13,163,223,0.7);
+}
+body{
+    background-color: rgba(200, 153, 0, 0.6);
+}
+strong{
+    color: rgb(82, 79, 79);
+}
+ul{
+    color: whitesmoke;
+}
+ol{
+    color: whitesmoke;
+}
